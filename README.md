@@ -18,4 +18,4 @@ References:
 Python script to calculate weighted average for k sat, OM and clay content (using SSURGO data)
 
 References:
-Soil Survey Staff, Natural Resources Conservation Service, United States Department of Agriculture. Web Soil Survey. Available online at https://websoilsurvey.nrcs.usda.gov/. Accessed [month/day/year].
+Soil Survey Staff, Natural Resources Conservation Service, United States Department of Agriculture. Web Soil Survey. Available online at https://websoilsurvey.nrcs.usda.gov/
